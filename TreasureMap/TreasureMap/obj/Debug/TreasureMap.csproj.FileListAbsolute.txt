@@ -1,6 +1,1 @@
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Debug\TreasureMap.exe.config
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Debug\TreasureMap.exe
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Debug\TreasureMap.pdb
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\obj\Debug\TreasureMap.csprojResolveAssemblyReference.cache
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\obj\Debug\TreasureMap.exe
-c:\users\delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\obj\Debug\TreasureMap.pdb
+H:\Github\Git\bin\Treasure-Map\TreasureMap\TreasureMap\bin\Debug\TreasureMap.exe.config
