@@ -1,0 +1,5 @@
+C:\Users\Delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Release\TreasureMap.exe.config
+C:\Users\Delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Release\TreasureMap.exe
+C:\Users\Delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\bin\Release\TreasureMap.pdb
+C:\Users\Delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\obj\Release\TreasureMap.exe
+C:\Users\Delphine\documents\visual studio 2015\Projects\TreasureMap\TreasureMap\obj\Release\TreasureMap.pdb
